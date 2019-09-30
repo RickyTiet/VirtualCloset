@@ -1,2 +1,2 @@
 # VirtualCloset
-Ricky and Suhmed's Project dea 
+Ricky and Sumedh's Project dea 
